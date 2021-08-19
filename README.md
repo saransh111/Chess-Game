@@ -11,8 +11,11 @@ This game is build in pygame environment the purpose of this game is to allow th
 ## Acknowledgement
 
 - [Pygame Introduction](https://realpython.com/pygame-a-primer/)
-### Opening window introduction
 
+## DEMO
+
+
+### Opening window introduction
 
 https://user-images.githubusercontent.com/63945888/130032529-166f32fe-d03d-4389-9f8c-07b2b61a8285.mp4
 
